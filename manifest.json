@@ -2,7 +2,7 @@
     "name": "Demo PWA",
     "short_name": "Demo PWA",
     "lang": "en",
-    "start_url": "https://projectxteam.github.io/pwa_app/",
+    "start_url": "/",
     "display": "fullscreen",
     "theme_color": "#c2f442",
     "icons": [{
