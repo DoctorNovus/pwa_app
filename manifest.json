@@ -11,8 +11,8 @@
             "src": "pwa0-120.png",
             "sizes": "120x120"
         }
-    ]
-    "start_url": ".",
-	"theme_color": "#5ac1f2",
-	"background_color": "#383838"
+    ],
+     "start_url": ".",
+      "theme_color": "#5ac1f2",
+      "background_color": "#383838"
 }
