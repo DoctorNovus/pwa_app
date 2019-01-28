@@ -2,9 +2,7 @@
     "name": "Demo PWA",
     "short_name": "Demo PWA",
     "lang": "en",
-    "start_url": "/index.html",
     "display": "fullscreen",
-    "theme_color": "#c2f442",
     "icons": [{
             "src": "pwa0-180.png",
             "sizes": "180x180"
@@ -14,4 +12,7 @@
             "sizes": "120x120"
         }
     ]
+    "start_url": ".",
+	"theme_color": "#5ac1f2",
+	"background_color": "#383838"
 }
