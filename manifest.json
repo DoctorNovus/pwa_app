@@ -3,7 +3,6 @@
     "short_name": "Demo PWA",
     "lang": "en",
     "start_url": ".",  
-    "theme_color": "#5ac1f2",
     "display": "fullscreen",
     "icons": [{
             "src": "pwa0-180.png",
