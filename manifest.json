@@ -2,7 +2,7 @@
     "name": "Demo PWA",
     "short_name": "Demo PWA",
     "lang": "en",
-    "start_url": "./?homescreen=1",
+    "start_url": "./?utm_source=homescreen",
     "display": "fullscreen",
     "theme_color": "#c2f442",
     "icons": [{
