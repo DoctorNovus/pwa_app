@@ -4,6 +4,7 @@
     "lang": "en",
     "start_url": "./?utm_source=homescreen",
     "display": "fullscreen",
+    "orientation": "portrait-primary",
     "theme_color": "#c2f442",
     "icons": [{
             "src": "assets/pwa0-180.png",
