@@ -6,11 +6,11 @@
     "display": "fullscreen",
     "theme_color": "#c2f442",
     "icons": [{
-            "src": "pwa0-180.png",
+            "src": "assets/pwa0-180.png",
             "sizes": "180x180"
         },
         {
-            "src": "pwa0-120.png",
+            "src": "assets/pwa0-120.png",
             "sizes": "120x120"
         }
     ]
