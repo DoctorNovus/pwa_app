@@ -30,6 +30,31 @@
          href="images/icons/icon-144x144.png">
   </head>
   <body>
+    <div id="game">
+        <h2 id="score_id">Score: 0</h2>
+        <h2 id="level_id">Level: 1</h2>
+        <canvas id="canvas"></canvas>
+    </div>
+
+    <div id="gameOver">
+            <h1>Game Over</h1>
+            <h2 id="scoreCounter">Score: </h2>
+            <h2 id="levelCounter">Level: </h2>
+            <button id="reset">Reset</button>
+    </div>
+
+    <div class="buttons_div">
+        <button class="buttons" id="buttonUp">Up</button>
+        <button class="buttons" id="buttonDown">Down</button>
+        <button class="buttons" id="buttonLeft">Left</button>
+        <button class="buttons" id="buttonRight">Right</button>
+    </div>
+    <script type="text/javascript" src="./scripts/app.js"></script>
+    <script type="text/javascript" src="./scripts/engine.js"></script>
+    <script type="text/javascript" src="./scripts/player.js"></script>
+    <script type="text/javascript" src="./scripts/enemy.js"></script>
+    <script type="text/javascript" src="./scripts/display.js"></script>
+    <script type="text/javascript" src="./scripts/index.js"></script>
     <script type="text/javascript" src="scripts/shell.js"></script>
   </body>
 </html>
