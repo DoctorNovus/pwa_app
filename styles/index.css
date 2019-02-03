@@ -1,0 +1,55 @@
+body{
+    border: 2px solid blue;
+    background-color: silver;
+    overflow: hidden;
+}
+
+#score_id{
+    position: absolute;
+    left: 10px;
+    top: 0px;
+}
+
+#level_id{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+
+#gameOver{
+    display: none;
+    position: absolute;
+    top: 0px;
+}
+
+.buttons{
+    -webkit-user-select: none;
+    user-select: none;
+    display: none;
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+#buttonUp{
+    right: 110px;
+    bottom: 100px;
+}
+
+#buttonDown{
+    right: 110px;
+}
+
+#buttonLeft{
+    right: 210px;
+    bottom: 100px;
+}
+
+#buttonRight{
+    right: 10px;
+    bottom: 100px;
+}
